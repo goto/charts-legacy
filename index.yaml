@@ -2,162 +2,162 @@ apiVersion: v1
 entries:
   app:
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.662088+07:00"
+    created: "2023-03-07T21:09:24.404691+07:00"
     description: A Helm chart for Kubernetes
     digest: d0244d543d6c53bddd79d7d97fd69df2274bc3e8645f6decb96bd8c32077d94a
     name: app
     type: application
     urls:
-    - app-0.4.3.tgz
+    - http://goto.github.io/charts-legacy/app-0.4.3.tgz
     version: 0.4.3
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.661615+07:00"
+    created: "2023-03-07T21:09:24.403669+07:00"
     description: A Helm chart for Kubernetes
     digest: 4fd9e108b2acf35827d24bdcfe9bd90c5e45d318a79b1669eeaec05f1068c2af
     name: app
     type: application
     urls:
-    - app-0.4.2.tgz
+    - http://goto.github.io/charts-legacy/app-0.4.2.tgz
     version: 0.4.2
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.661037+07:00"
+    created: "2023-03-07T21:09:24.403156+07:00"
     description: A Helm chart for Kubernetes
     digest: e3144a36fbc2bc97d96711995a8f90e5e5c76fda4fd0e7633161d2672c2e465a
     name: app
     type: application
     urls:
-    - app-0.4.1.tgz
+    - http://goto.github.io/charts-legacy/app-0.4.1.tgz
     version: 0.4.1
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.659999+07:00"
+    created: "2023-03-07T21:09:24.402693+07:00"
     description: A Helm chart for Kubernetes
     digest: 91b5c7ade2ec1aaf000ac5eb7e7216ff0fe41374f2637b0b228f869bf26bd68b
     name: app
     type: application
     urls:
-    - app-0.4.0.tgz
+    - http://goto.github.io/charts-legacy/app-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.659501+07:00"
+    created: "2023-03-07T21:09:24.40216+07:00"
     description: A Helm chart for Kubernetes
     digest: d1fe430c759477b19c5aa129c2e8c3dc39286a20865267d303d9a2bf52ccbea8
     name: app
     type: application
     urls:
-    - app-0.3.4.tgz
+    - http://goto.github.io/charts-legacy/app-0.3.4.tgz
     version: 0.3.4
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.659002+07:00"
+    created: "2023-03-07T21:09:24.401691+07:00"
     description: A Helm chart for Kubernetes
     digest: 2ef4216aae207e68858449c4d5b27352e6c2db6d035bfb6edfd4c8580eef7534
     name: app
     type: application
     urls:
-    - app-0.3.3.tgz
+    - http://goto.github.io/charts-legacy/app-0.3.3.tgz
     version: 0.3.3
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.658571+07:00"
+    created: "2023-03-07T21:09:24.401151+07:00"
     description: A Helm chart for Kubernetes
     digest: 930974a06260d90c34a2399de432ba97b369dea7d1800c56cce4781ca3abcd32
     name: app
     type: application
     urls:
-    - app-0.3.2.tgz
+    - http://goto.github.io/charts-legacy/app-0.3.2.tgz
     version: 0.3.2
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.658039+07:00"
+    created: "2023-03-07T21:09:24.400669+07:00"
     description: A Helm chart for Kubernetes
     digest: 46aca5acca5acfc4d5720f998513a1549eedcd89d75de72739b58411e4a29b78
     name: app
     type: application
     urls:
-    - app-0.3.1.tgz
+    - http://goto.github.io/charts-legacy/app-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.657511+07:00"
+    created: "2023-03-07T21:09:24.400231+07:00"
     description: A Helm chart for Kubernetes
     digest: fe48c8931c4814a74d331fabd6f2b5ce36271afffb0ebeac12bfc923dfac59ca
     name: app
     type: application
     urls:
-    - app-0.3.0.tgz
+    - http://goto.github.io/charts-legacy/app-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.657103+07:00"
+    created: "2023-03-07T21:09:24.399784+07:00"
     description: A Helm chart for Kubernetes
     digest: 61d310d8e7a0c08865a2594d3fb3c22987c17301eb3395774f10300d5e13c7e8
     name: app
     type: application
     urls:
-    - app-0.2.2.tgz
+    - http://goto.github.io/charts-legacy/app-0.2.2.tgz
     version: 0.2.2
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.656718+07:00"
+    created: "2023-03-07T21:09:24.399296+07:00"
     description: A Helm chart for Kubernetes
     digest: c703c96aa30e40071d17075c04ee217111cf290b2934cb3c8bd8405bfcbebad4
     name: app
     type: application
     urls:
-    - app-0.2.1.tgz
+    - http://goto.github.io/charts-legacy/app-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.656346+07:00"
+    created: "2023-03-07T21:09:24.398758+07:00"
     description: A Helm chart for Kubernetes
     digest: da81c1420942e46fd3848fcefd1f9a715ad48906673afce44bd854cf67a8d0df
     name: app
     type: application
     urls:
-    - app-0.2.0.tgz
+    - http://goto.github.io/charts-legacy/app-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.655963+07:00"
+    created: "2023-03-07T21:09:24.398327+07:00"
     description: A Helm chart for Kubernetes
     digest: fd4d3424210e0ab4102288789a26f34db35bc890e68306e0715c42dc506e29cb
     name: app
     type: application
     urls:
-    - app-0.1.4.tgz
+    - http://goto.github.io/charts-legacy/app-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.655576+07:00"
+    created: "2023-03-07T21:09:24.397866+07:00"
     description: A Helm chart for Kubernetes
     digest: 19d5e3d976987cc250daf023c031fcf615c3d4bcc9fb888f431134215d251f9e
     name: app
     type: application
     urls:
-    - app-0.1.3.tgz
+    - http://goto.github.io/charts-legacy/app-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.65518+07:00"
+    created: "2023-03-07T21:09:24.397429+07:00"
     description: A Helm chart for Kubernetes
     digest: 8a23cab82bc3c33277c234e5382fb1ab42f912bb49f4253c9acf6836bbfaafb1
     name: app
     type: application
     urls:
-    - app-0.1.2.tgz
+    - http://goto.github.io/charts-legacy/app-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.654782+07:00"
+    created: "2023-03-07T21:09:24.396982+07:00"
     description: A Helm chart for Kubernetes
     digest: f15b318314a64887b931af53526cb749e5d8f899046ddd2628b7571ead29ac22
     name: app
     type: application
     urls:
-    - app-0.1.1.tgz
+    - http://goto.github.io/charts-legacy/app-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.6543+07:00"
+    created: "2023-03-07T21:09:24.396522+07:00"
     description: A Helm chart for Kubernetes
     digest: 9aa4d7f013539714bbeb72899a1f824fd08affc4666e33d3850b805939fc48d5
     name: app
     type: application
     urls:
-    - app-0.1.0.tgz
+    - http://goto.github.io/charts-legacy/app-0.1.0.tgz
     version: 0.1.0
   columbus:
   - apiVersion: v2
     appVersion: 0.1.8
-    created: "2023-03-07T20:59:45.663914+07:00"
+    created: "2023-03-07T21:09:24.406744+07:00"
     dependencies:
     - name: app
       repository: https://odpf.github.io/charts/
@@ -167,11 +167,11 @@ entries:
     name: columbus
     type: application
     urls:
-    - columbus-0.1.2.tgz
+    - http://goto.github.io/charts-legacy/columbus-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.8
-    created: "2023-03-07T20:59:45.663336+07:00"
+    created: "2023-03-07T21:09:24.406119+07:00"
     dependencies:
     - name: app
       repository: https://odpf.github.io/charts/
@@ -181,11 +181,11 @@ entries:
     name: columbus
     type: application
     urls:
-    - columbus-0.1.1.tgz
+    - http://goto.github.io/charts-legacy/columbus-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.8
-    created: "2023-03-07T20:59:45.66272+07:00"
+    created: "2023-03-07T21:09:24.405478+07:00"
     dependencies:
     - name: app
       repository: https://odpf.github.io/charts/
@@ -195,12 +195,12 @@ entries:
     name: columbus
     type: application
     urls:
-    - columbus-0.1.0.tgz
+    - http://goto.github.io/charts-legacy/columbus-0.1.0.tgz
     version: 0.1.0
   compass:
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2023-03-07T20:59:45.668111+07:00"
+    created: "2023-03-07T21:09:24.410385+07:00"
     dependencies:
     - name: app
       repository: https://odpf.github.io/charts/
@@ -210,11 +210,11 @@ entries:
     name: compass
     type: application
     urls:
-    - compass-0.1.5.tgz
+    - http://goto.github.io/charts-legacy/compass-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.2.4
-    created: "2023-03-07T20:59:45.667428+07:00"
+    created: "2023-03-07T21:09:24.409809+07:00"
     dependencies:
     - name: app
       repository: https://odpf.github.io/charts/
@@ -224,11 +224,11 @@ entries:
     name: compass
     type: application
     urls:
-    - compass-0.1.4.tgz
+    - http://goto.github.io/charts-legacy/compass-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.2.4
-    created: "2023-03-07T20:59:45.666397+07:00"
+    created: "2023-03-07T21:09:24.409213+07:00"
     dependencies:
     - name: app
       repository: https://odpf.github.io/charts/
@@ -238,11 +238,11 @@ entries:
     name: compass
     type: application
     urls:
-    - compass-0.1.3.tgz
+    - http://goto.github.io/charts-legacy/compass-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2023-03-07T20:59:45.66577+07:00"
+    created: "2023-03-07T21:09:24.408599+07:00"
     dependencies:
     - name: app
       repository: https://odpf.github.io/charts/
@@ -252,11 +252,11 @@ entries:
     name: compass
     type: application
     urls:
-    - compass-0.1.2.tgz
+    - http://goto.github.io/charts-legacy/compass-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2023-03-07T20:59:45.665165+07:00"
+    created: "2023-03-07T21:09:24.408025+07:00"
     dependencies:
     - name: app
       repository: https://odpf.github.io/charts/
@@ -266,11 +266,11 @@ entries:
     name: compass
     type: application
     urls:
-    - compass-0.1.1.tgz
+    - http://goto.github.io/charts-legacy/compass-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2023-03-07T20:59:45.664543+07:00"
+    created: "2023-03-07T21:09:24.407421+07:00"
     dependencies:
     - name: app
       repository: https://odpf.github.io/charts/
@@ -280,24 +280,24 @@ entries:
     name: compass
     type: application
     urls:
-    - compass-0.1.0.tgz
+    - http://goto.github.io/charts-legacy/compass-0.1.0.tgz
     version: 0.1.0
   consul:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2023-03-07T20:59:45.668366+07:00"
+    created: "2023-03-07T21:09:24.410595+07:00"
     description: Minimal Helm chart for deploying consul server on kubernetes.
     digest: 34bd6f5b884e101c258904c19f23f210bd6e7519d3c5700eb97a1896492ff959
     name: consul
     sources:
     - https://github.com/odpf/charts
     urls:
-    - consul-0.1.0.tgz
+    - http://goto.github.io/charts-legacy/consul-0.1.0.tgz
     version: 0.1.0
   dex:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2023-03-07T20:59:45.669595+07:00"
+    created: "2023-03-07T21:09:24.412213+07:00"
     dependencies:
     - name: app
       repository: https://odpf.github.io/charts/
@@ -307,11 +307,11 @@ entries:
     name: dex
     type: application
     urls:
-    - dex-0.1.1.tgz
+    - http://goto.github.io/charts-legacy/dex-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-03-07T20:59:45.668991+07:00"
+    created: "2023-03-07T21:09:24.411187+07:00"
     dependencies:
     - name: app
       repository: https://odpf.github.io/charts/
@@ -321,12 +321,12 @@ entries:
     name: dex
     type: application
     urls:
-    - dex-0.1.0.tgz
+    - http://goto.github.io/charts-legacy/dex-0.1.0.tgz
     version: 0.1.0
   entropy:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-03-07T20:59:45.671408+07:00"
+    created: "2023-03-07T21:09:24.41408+07:00"
     dependencies:
     - name: app
       repository: https://odpf.github.io/charts/
@@ -336,11 +336,11 @@ entries:
     name: entropy
     type: application
     urls:
-    - entropy-0.1.3.tgz
+    - http://goto.github.io/charts-legacy/entropy-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-03-07T20:59:45.670816+07:00"
+    created: "2023-03-07T21:09:24.413427+07:00"
     dependencies:
     - name: app
       repository: https://odpf.github.io/charts/
@@ -350,11 +350,11 @@ entries:
     name: entropy
     type: application
     urls:
-    - entropy-0.1.2.tgz
+    - http://goto.github.io/charts-legacy/entropy-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-03-07T20:59:45.670208+07:00"
+    created: "2023-03-07T21:09:24.412823+07:00"
     dependencies:
     - name: app
       repository: https://odpf.github.io/charts/
@@ -364,53 +364,53 @@ entries:
     name: entropy
     type: application
     urls:
-    - entropy-0.1.0.tgz
+    - http://goto.github.io/charts-legacy/entropy-0.1.0.tgz
     version: 0.1.0
   firehose:
   - apiVersion: v2
     appVersion: 0.7.1
-    created: "2023-03-07T20:59:45.673046+07:00"
+    created: "2023-03-07T21:09:24.41578+07:00"
     description: A Helm chart for deploying Firehose on Kubernetes
     digest: ab8c16333f0699f08427b518c95849addbee37d67b2dfbd4cf0f7a922313f930
     name: firehose
     type: application
     urls:
-    - firehose-0.1.3.tgz
+    - http://goto.github.io/charts-legacy/firehose-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2023-03-07T20:59:45.67262+07:00"
+    created: "2023-03-07T21:09:24.41536+07:00"
     description: A Helm chart for deploying Firehose on Kubernetes
     digest: 433c46c9ca2dc2cfd6119fadeaff78644ce1575a4c83548cf908045ad005a08e
     name: firehose
     type: application
     urls:
-    - firehose-0.1.2.tgz
+    - http://goto.github.io/charts-legacy/firehose-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2023-03-07T20:59:45.6722+07:00"
+    created: "2023-03-07T21:09:24.414937+07:00"
     description: A Helm chart for deploying Firehose on Kubernetes
     digest: 368847c31492f855f87fc10a200f68fad5008a24cdf81ceb72284018904c7c45
     name: firehose
     type: application
     urls:
-    - firehose-0.1.1.tgz
+    - http://goto.github.io/charts-legacy/firehose-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2023-03-07T20:59:45.671803+07:00"
+    created: "2023-03-07T21:09:24.414511+07:00"
     description: A Helm chart for deploying Firehose on Kubernetes
     digest: 588776982533168db163d6268c9ab2b2078be9c6ef05c75b94c4b0f386d197d7
     name: firehose
     type: application
     urls:
-    - firehose-0.1.0.tgz
+    - http://goto.github.io/charts-legacy/firehose-0.1.0.tgz
     version: 0.1.0
   guardian:
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2023-03-07T20:59:45.677071+07:00"
+    created: "2023-03-07T21:09:24.418924+07:00"
     dependencies:
     - name: app
       repository: https://odpf.github.io/charts/
@@ -420,11 +420,11 @@ entries:
     name: guardian
     type: application
     urls:
-    - guardian-0.2.0.tgz
+    - http://goto.github.io/charts-legacy/guardian-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.2.4
-    created: "2023-03-07T20:59:45.676325+07:00"
+    created: "2023-03-07T21:09:24.417893+07:00"
     dependencies:
     - name: app
       repository: https://odpf.github.io/charts/
@@ -434,11 +434,11 @@ entries:
     name: guardian
     type: application
     urls:
-    - guardian-0.1.3.tgz
+    - http://goto.github.io/charts-legacy/guardian-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.2.4
-    created: "2023-03-07T20:59:45.675708+07:00"
+    created: "2023-03-07T21:09:24.417374+07:00"
     dependencies:
     - name: app
       repository: https://odpf.github.io/charts/
@@ -448,11 +448,11 @@ entries:
     name: guardian
     type: application
     urls:
-    - guardian-0.1.2.tgz
+    - http://goto.github.io/charts-legacy/guardian-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-03-07T20:59:45.675094+07:00"
+    created: "2023-03-07T21:09:24.416847+07:00"
     dependencies:
     - name: app
       repository: https://odpf.github.io/charts/
@@ -462,11 +462,11 @@ entries:
     name: guardian
     type: application
     urls:
-    - guardian-0.1.1.tgz
+    - http://goto.github.io/charts-legacy/guardian-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-03-07T20:59:45.673598+07:00"
+    created: "2023-03-07T21:09:24.416309+07:00"
     dependencies:
     - name: app
       repository: https://odpf.github.io/charts/
@@ -476,127 +476,127 @@ entries:
     name: guardian
     type: application
     urls:
-    - guardian-0.1.0.tgz
+    - http://goto.github.io/charts-legacy/guardian-0.1.0.tgz
     version: 0.1.0
   guardian-jobs:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2023-03-07T20:59:45.677332+07:00"
+    created: "2023-03-07T21:09:24.419231+07:00"
     description: A Helm chart for Guardian Jobs (github.com/odpf/guardian)
     digest: 5d2cc7e751099f74d965c412b370891926917385227cf8a0952d54128dcc5b3f
     name: guardian-jobs
     urls:
-    - guardian-jobs-0.1.0.tgz
+    - http://goto.github.io/charts-legacy/guardian-jobs-0.1.0.tgz
     version: 0.1.0
   meteor:
   - apiVersion: v1
     appVersion: v0.5.1
-    created: "2023-03-07T20:59:45.679125+07:00"
+    created: "2023-03-07T21:09:24.42096+07:00"
     description: A Helm chart for Meteor (github.com/odpf/meteor)
     digest: 67be6579743b215a60b1b0c07f2d249b35b39f2a8cce902ca56bb0df320fdcfc
     name: meteor
     urls:
-    - meteor-0.1.6.tgz
+    - http://goto.github.io/charts-legacy/meteor-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v1
     appVersion: v0.5.1
-    created: "2023-03-07T20:59:45.678874+07:00"
+    created: "2023-03-07T21:09:24.420724+07:00"
     description: A Helm chart for Meteor (github.com/odpf/meteor)
     digest: 5a6f7f68cc25fb69f4b97400b9b9b1ed4ddbd0468b0bb9287f07d35e1c77fc15
     name: meteor
     urls:
-    - meteor-0.1.5.tgz
+    - http://goto.github.io/charts-legacy/meteor-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v1
     appVersion: v0.5.1
-    created: "2023-03-07T20:59:45.678616+07:00"
+    created: "2023-03-07T21:09:24.420469+07:00"
     description: A Helm chart for Meteor (github.com/odpf/meteor)
     digest: e617f696ee0e73d1b3920990c90e36027ab932ab317187f8a729c0adf4dd6017
     name: meteor
     urls:
-    - meteor-0.1.4.tgz
+    - http://goto.github.io/charts-legacy/meteor-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v1
     appVersion: v0.1.0
-    created: "2023-03-07T20:59:45.678366+07:00"
+    created: "2023-03-07T21:09:24.420209+07:00"
     description: A Helm chart for Meteor (github.com/odpf/meteor)
     digest: 97a5c192f2aabc4c84d72c802d3fe36e07c85fd36ada92b2f95d9b20a7f57a25
     name: meteor
     urls:
-    - meteor-0.1.3.tgz
+    - http://goto.github.io/charts-legacy/meteor-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
     appVersion: v0.1.0
-    created: "2023-03-07T20:59:45.678113+07:00"
+    created: "2023-03-07T21:09:24.419965+07:00"
     description: A Helm chart for Meteor (github.com/odpf/meteor)
     digest: 1364e04bfff3a5513a180c1b9a455403161640bc08d8a01904a589b765e40e43
     name: meteor
     urls:
-    - meteor-0.1.2.tgz
+    - http://goto.github.io/charts-legacy/meteor-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
     appVersion: v0.1.0
-    created: "2023-03-07T20:59:45.67786+07:00"
+    created: "2023-03-07T21:09:24.419716+07:00"
     description: A Helm chart for Meteor (github.com/odpf/meteor)
     digest: 6390c21502e004327ae4c88799c7c478bcd5f4bb4a8ee1197d336fc3f16b5e44
     name: meteor
     urls:
-    - meteor-0.1.1.tgz
+    - http://goto.github.io/charts-legacy/meteor-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     appVersion: v0.1.0
-    created: "2023-03-07T20:59:45.677596+07:00"
+    created: "2023-03-07T21:09:24.419476+07:00"
     description: A Helm chart for Meteor (github.com/odpf/meteor)
     digest: ef9bf8d17c63c4818f3238ff03fc2dedfba4d9a2ca1398708358f6ba84bee793
     name: meteor
     urls:
-    - meteor-0.1.0.tgz
+    - http://goto.github.io/charts-legacy/meteor-0.1.0.tgz
     version: 0.1.0
   optimus:
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2023-03-07T20:59:45.680349+07:00"
+    created: "2023-03-07T21:09:24.422224+07:00"
     description: A Helm chart for running optimus on kubernetes
     digest: 157a37518c7883e35e5fa0e0ec2d6a09ff931aed5109cc35477a8407cf7355da
     name: optimus
     type: application
     urls:
-    - optimus-0.0.3.tgz
+    - http://goto.github.io/charts-legacy/optimus-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2023-03-07T20:59:45.679943+07:00"
+    created: "2023-03-07T21:09:24.421796+07:00"
     description: A Helm chart for running optimus on kubernetes
     digest: 5a4e81f037317d4b2009b0cd790cee56838eca889be801fcd1f1e8500e461254
     name: optimus
     type: application
     urls:
-    - optimus-0.0.2.tgz
+    - http://goto.github.io/charts-legacy/optimus-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v2
     appVersion: 0.2.5
-    created: "2023-03-07T20:59:45.67952+07:00"
+    created: "2023-03-07T21:09:24.42137+07:00"
     description: A Helm chart for running optimus on kubernetes
     digest: 82fb369b3f1274eed9ad81934ae72d3a5b6955ab6a82d9bfc573f19a281528c0
     name: optimus
     type: application
     urls:
-    - optimus-0.0.1.tgz
+    - http://goto.github.io/charts-legacy/optimus-0.0.1.tgz
     version: 0.0.1
   raccoon:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-03-07T20:59:45.68136+07:00"
+    created: "2023-03-07T21:09:24.42265+07:00"
     description: A Helm chart for deploying Raccoon on Kubernetes
     digest: 97d12b80ff269d13489a22e965c7bdfcd5c6732b16864310a349aabef89b846c
     name: raccoon
     type: application
     urls:
-    - raccoon-0.1.0.tgz
+    - http://goto.github.io/charts-legacy/raccoon-0.1.0.tgz
     version: 0.1.0
   shield:
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.685983+07:00"
+    created: "2023-03-07T21:09:24.427683+07:00"
     dependencies:
     - alias: shield-app
       condition: shield-app.enabled
@@ -613,10 +613,10 @@ entries:
     name: shield
     type: application
     urls:
-    - shield-0.2.0.tgz
+    - http://goto.github.io/charts-legacy/shield-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.685354+07:00"
+    created: "2023-03-07T21:09:24.427035+07:00"
     dependencies:
     - alias: shield-app
       condition: shield-app.enabled
@@ -633,10 +633,10 @@ entries:
     name: shield
     type: application
     urls:
-    - shield-0.1.4.tgz
+    - http://goto.github.io/charts-legacy/shield-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.684626+07:00"
+    created: "2023-03-07T21:09:24.426309+07:00"
     dependencies:
     - alias: shield-app
       condition: shield-app.enabled
@@ -653,10 +653,10 @@ entries:
     name: shield
     type: application
     urls:
-    - shield-0.1.3.tgz
+    - http://goto.github.io/charts-legacy/shield-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.683848+07:00"
+    created: "2023-03-07T21:09:24.425176+07:00"
     dependencies:
     - alias: shield-app
       condition: shield-app.enabled
@@ -673,10 +673,10 @@ entries:
     name: shield
     type: application
     urls:
-    - shield-0.1.2.tgz
+    - http://goto.github.io/charts-legacy/shield-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.683155+07:00"
+    created: "2023-03-07T21:09:24.424484+07:00"
     dependencies:
     - alias: shield-app
       condition: shield-app.enabled
@@ -693,10 +693,10 @@ entries:
     name: shield
     type: application
     urls:
-    - shield-0.1.1.tgz
+    - http://goto.github.io/charts-legacy/shield-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
-    created: "2023-03-07T20:59:45.682446+07:00"
+    created: "2023-03-07T21:09:24.423725+07:00"
     dependencies:
     - alias: shield-app
       condition: shield-app.enabled
@@ -713,11 +713,11 @@ entries:
     name: shield
     type: application
     urls:
-    - shield-0.1.0.tgz
+    - http://goto.github.io/charts-legacy/shield-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v2
     appVersion: v0.0.1
-    created: "2023-03-07T20:59:45.681789+07:00"
+    created: "2023-03-07T21:09:24.423048+07:00"
     description: A Helm chart for deploying Shield on Kubernetes
     digest: a123fad4111981d41905fd94f5ad388c4c9135d5c989fa040021a5439546ea5e
     home: https://github.com/odpf/shield
@@ -727,12 +727,12 @@ entries:
     - https://github.com/odpf/charts
     type: application
     urls:
-    - shield-0.0.1.tgz
+    - http://goto.github.io/charts-legacy/shield-0.0.1.tgz
     version: 0.0.1
   siren:
   - apiVersion: v2
     appVersion: v0.5.0
-    created: "2023-03-07T20:59:45.689086+07:00"
+    created: "2023-03-07T21:09:24.430395+07:00"
     dependencies:
     - alias: app
       condition: app.enabled
@@ -754,11 +754,11 @@ entries:
     home: https://github.com/odpf/siren
     name: siren
     urls:
-    - siren-0.1.2.tgz
+    - http://goto.github.io/charts-legacy/siren-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
     appVersion: v0.5.0
-    created: "2023-03-07T20:59:45.688249+07:00"
+    created: "2023-03-07T21:09:24.429593+07:00"
     dependencies:
     - alias: app
       condition: app.enabled
@@ -780,11 +780,11 @@ entries:
     home: https://github.com/odpf/siren
     name: siren
     urls:
-    - siren-0.1.1.tgz
+    - http://goto.github.io/charts-legacy/siren-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
     appVersion: v0.5.0
-    created: "2023-03-07T20:59:45.687113+07:00"
+    created: "2023-03-07T21:09:24.428853+07:00"
     dependencies:
     - alias: siren-app
       condition: siren-app.enabled
@@ -806,11 +806,11 @@ entries:
     home: https://github.com/odpf/siren
     name: siren
     urls:
-    - siren-0.1.0.tgz
+    - http://goto.github.io/charts-legacy/siren-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v1
     appVersion: v0.0.1
-    created: "2023-03-07T20:59:45.686354+07:00"
+    created: "2023-03-07T21:09:24.428064+07:00"
     description: Siren Helm chart
     digest: 8fa9d25a323a39c15d6414f9db703e48ed66e52f2abf31ff773e4d4d9b701225
     home: https://github.com/odpf/siren
@@ -819,12 +819,12 @@ entries:
     - https://github.com/odpf/siren
     - https://github.com/odpf/charts
     urls:
-    - siren-0.0.1.tgz
+    - http://goto.github.io/charts-legacy/siren-0.0.1.tgz
     version: 0.0.1
   stencil:
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2023-03-07T20:59:45.689675+07:00"
+    created: "2023-03-07T21:09:24.430898+07:00"
     dependencies:
     - name: app
       repository: https://odpf.github.io/charts/
@@ -834,6 +834,6 @@ entries:
     name: stencil
     type: application
     urls:
-    - stencil-0.1.0.tgz
+    - http://goto.github.io/charts-legacy/stencil-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-07T20:59:45.653462+07:00"
+generated: "2023-03-07T21:09:24.395521+07:00"
